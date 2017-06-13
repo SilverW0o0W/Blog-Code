@@ -10,6 +10,8 @@ namespace Charter1
     {
         static void Main(string[] args)
         {
+            Question_03 q_03 = new Question_03();
+            q_03.Quiz();
         }
     }
 }
